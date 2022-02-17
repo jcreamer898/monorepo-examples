@@ -1,0 +1,11 @@
+{
+  "name": "yarn-example",
+  "private": "true",
+  "version": "1.0.0",
+  "scripts": {
+    "clean": "npx rimraf packages/*/node_modules node_modules packages/*/lib",
+    "strict": "node ./vendor/midgard-yarn-strict.bundle.js",
+    "build": "yarn workspace @yarn-example/pkg-a run tsc"
+  },
+  "workspaces": ["packages/*"]
+}
