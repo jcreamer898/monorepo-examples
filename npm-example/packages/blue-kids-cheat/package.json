@@ -1,0 +1,9 @@
+{
+  "name": "@foo/blue-kids-cheat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "@fluentui/react": "7.142.0"
+  }
+}

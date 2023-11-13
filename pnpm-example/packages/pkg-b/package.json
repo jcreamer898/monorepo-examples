@@ -1,4 +1,8 @@
 {
   "name": "@pnpm-example/pkg-b",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "@fluentui/react": "7.142.0"
+  }
 }

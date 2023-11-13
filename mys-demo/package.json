@@ -1,0 +1,5 @@
+{
+  "name": "mys-demo",
+  "private": "true",
+  "workspaces": ["packages/*"]
+}
