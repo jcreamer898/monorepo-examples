@@ -1,0 +1,5 @@
+{
+  "name": "unmet-peers-npm",
+  "private": "true",
+  "workspaces": ["packages/*"]
+}

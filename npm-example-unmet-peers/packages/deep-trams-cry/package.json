@@ -1,0 +1,9 @@
+{
+  "name": "@foo/deep-trams-cry",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "@fluentui/react": "^8.112.8"
+  }
+}
